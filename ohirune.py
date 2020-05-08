@@ -7,5 +7,8 @@ def ohirune():
     time.sleep(10)
     print("nidone shita")
 
+def ushi():
+    print('ushi desu')
+    print('kaeru desu')
 
 ohirune()

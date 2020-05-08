@@ -10,9 +10,7 @@ def ohirune():
 def ushi():
     print('ushi desu')
     print('kaeru desu')
-<<<<<<< HEAD
     print('Ushironihitonanteinai')
-=======
->>>>>>> origin/master
+    print('Ushi to Kaeru no konbi nandesuyo~')
 
 ohirune()
